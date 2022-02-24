@@ -21,7 +21,7 @@
       <uniqueVersion>false</uniqueVersion>
       <id>intro</id>
       <name>my test repo</name>
-      <url>file:///Users/andivanov/Codez/intro-to-devops/spring-petclinic</url>
+      <url>https://github.com/objectionoverruled/spring-petclinic</url>
     </repository>
   </distributionManagement>
 
