@@ -11,6 +11,9 @@
     <version>2.6.3</version>
   </parent>
   <name>petclinic</name>
+  <scm>
+    <connection>scm:git:https://github.com/objectionoverruled/spring-petclinic.git</connection>
+  </scm>
 
   <properties>
 
